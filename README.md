@@ -21,7 +21,7 @@
 
 | **Course**                                                            | **Link**                                                   | **Grade**
 | --------------------------------------------------------------------- | ---------------------------------------------------------- | --------------  |
-| Programming Basics with C# </a>         | <a href="https://softuni.bg/trainings/3753/programming-basics-with-csharp-july-2022"> Link</a> | <a href=""> grade </a> |
+| Programming Basics with C# </a>         | <a href="https://softuni.bg/trainings/3753/programming-basics-with-csharp-july-2022"> https://softuni.bg/users/profile/certificates?username=VMonster</a> | <a href=""> 6.00 </a> |
 | Programming Fundamentals with C# </a> | <a href="upcoming"> Link</a> | <a href=""> grade </a> |
 | C# Advanced </a>   | <a href="upcoming"> Link</a> | <a href=""> grade </a> |
 | C# OOP </a>  | <a href="upcoming"> Link</a> | <a href=""> grade </a> |

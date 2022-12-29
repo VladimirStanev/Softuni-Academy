@@ -22,7 +22,7 @@
 | **Course**                                                            | **Link**                                                   | **Grade**
 | --------------------------------------------------------------------- | ---------------------------------------------------------- | --------------  |
 | Programming Basics with C# </a>         | <a href="https://softuni.bg/certificates/details/140060/f1ba768e"> Link</a> | <a href="https://softuni.bg/certificates/details/93031/9572f324"> 6.00 </a> |
-| Programming Fundamentals with C# </a> | <a href="https://softuni.bg/certificates/details/149138/50f441fb"> Link</a> | <a href=""> grade </a> |
+| Programming Fundamentals with C# </a> | <a href="https://softuni.bg/certificates/details/149138/50f441fb"> Link</a> | <a href=""> 6.00 </a> |
 | C# Advanced </a>   | <a href="upcoming"> Link</a> | <a href=""> grade </a> |
 | C# OOP </a>  | <a href="upcoming"> Link</a> | <a href=""> grade </a> |
 | MS SQL </a>  | <a href="upcoming"> Link</a> | <a href=""> grade </a> |

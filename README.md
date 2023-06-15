@@ -7,9 +7,6 @@
 <br/>
 <br/>
 <br/>
-  
-  
-  
 
 <h2> Certificates </h2>
 

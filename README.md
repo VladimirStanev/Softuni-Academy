@@ -26,6 +26,7 @@
 | C# Advanced </a>  | <a href="https://softuni.bg/certificates/details/158164/45b0212c"> Link</a> | <a href="https://softuni.bg/certificates/details/158164/45b0212c"> 6.00 </a> |
 | C# OOP </a>  | <a href="upcoming"> Link</a> | <a href=""> grade </a> |
 | HTML & CSS </a>  | <a href="https://softuni.bg/certificates/details/174933/6fefac2e"> Link</a> | <a href="https://softuni.bg/certificates/details/174933/6fefac2e"> 5.22 </a> |
+| JS Front-End </a>  | <a href="https://softuni.bg/certificates/details/181373/48cc0208"> Link</a> | <a href="https://softuni.bg/certificates/details/174933/6fefac2e"> 5.94 </a> |
 | MS SQL </a>  | <a href="upcoming"> Link</a> | <a href=""> grade </a> |
 | Entity Framework Core </a>   | <a href="upcoming"> Link</a> | <a href=""> grade </a> 
 
